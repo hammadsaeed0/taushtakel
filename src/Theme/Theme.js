@@ -1,0 +1,50 @@
+import {moderateScale} from './Dimensions';
+import {Platform} from 'react-native';
+
+export default Theme = {
+  colors: {
+    primaryColor: '#cf2825',
+    secondaryColor: '#aa0025',
+    bluePColor: '#094994',
+    yellowPColor: '#fcbd17',
+    textColor: '#221f1f',
+    whiteColor: '#ffffff',
+    blackColor: '#070202',
+    redColor: '#A72E31',
+    lightRedColor: '#E84B27',
+    grayColor: '#676767',
+    lightGrayColor: '#A1A0A0',
+    startGColor: '#FFF200',
+    endGColor: '#FCBD17',
+    grey: '#BABBC3',
+    light: '#F3F4FB',
+    tomato:'#fe6666',
+   green:'#5eb068',
+    lightGreen: '#deffc9',
+    yellow:'#f9ee10',
+    sky:'#2299e1',
+    orange:'#f09323',
+    cream:'#ec6f53',
+    darkyellow:'#fec909',
+    lightGrey:'#ebeded',
+
+  },
+  fontFamily: {
+    regular: 'OpenSans-Regular',
+    medium: 'OpenSans-Medium',
+    bold: 'OpenSans-Bold',
+    urdu: 'Jameel Noori Nastaleeq Kasheeda',
+    semibold: 'OpenSans-SemiBold',
+  },
+  fontSizes: {
+    xxbig: moderateScale(34),
+    xbig: moderateScale(26),
+    big: moderateScale(22),
+    xxmedium: moderateScale(19),
+    xmedium: moderateScale(17),
+    medium: moderateScale(15),
+    small: moderateScale(13),
+    verySmall: moderateScale(11),
+    tinySmall: moderateScale(9),
+  },
+};

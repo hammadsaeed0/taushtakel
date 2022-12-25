@@ -1,0 +1,49 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/MazzardH-Black.otf",
+      "sha1": "94714b67de023f832171ac75839f5bfd5f0f7cb1"
+    },
+    {
+      "path": "src/assets/fonts/MazzardH-BlackItalic.otf",
+      "sha1": "aa9db23141016ee1f19a05bc1420dbdfa6879205"
+    },
+    {
+      "path": "src/assets/fonts/MazzardH-Bold.otf",
+      "sha1": "f2cd9e3c06bdf5e41496f8f7be19e07d3b65a927"
+    },
+    {
+      "path": "src/assets/fonts/MazzardH-BoldItalic.otf",
+      "sha1": "1d2f1913b396f51b9906531acd187c17fd718664"
+    },
+    {
+      "path": "src/assets/fonts/MazzardH-ExtraBold.otf",
+      "sha1": "44b55640efe0a266ead34055c965cd7aad33599c"
+    },
+    {
+      "path": "src/assets/fonts/MazzardH-ExtraBoldItalic.otf",
+      "sha1": "d9cd5e3516da577f9acb6abb1fbae3aaf363aa46"
+    },
+    {
+      "path": "src/assets/fonts/MazzardH-ExtraLight.otf",
+      "sha1": "f701f1c971390f36c70cd45a4f9966d223d0bd56"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Bold.ttf",
+      "sha1": "04052dc3b846609216de1e0cbcec337c6b6e74f6"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Medium.ttf",
+      "sha1": "6b57d12e018c64352e202f8ef3bf7f431f76d935"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Regular.ttf",
+      "sha1": "de57aa03e4821fdbe6c34ec2c895e8b5c914e837"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-SemiBold.ttf",
+      "sha1": "8580dec824bbdb6ce24d04d3aaf360776339f0a7"
+    }
+  ]
+}
