@@ -83,6 +83,8 @@ const Setting = ({navigation}) => {
             <Icon name="arrow-forward-ios" size={16} color="black" />
         </TouchableOpacity>
 
+
+
         <TouchableOpacity onPress={()=>navigation.navigate("Term")} style={{height:'5%', width:'100%', flexDirection:'row',marginTop:'1%' , justifyContent:'space-between', paddingHorizontal:"15%" , alignItems:'center'}}>
 
             <Text style={{fontSize:16 , fontFamily:'Montserrat-Medium' , color:'black'}}>Terms of Use</Text>
